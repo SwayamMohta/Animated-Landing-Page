@@ -1,1 +1,1 @@
-# JUNO-PRO
+# Animated landing page
